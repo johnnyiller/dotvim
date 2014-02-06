@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/jdurand/Documents/exoprise/cloudready/app/views/adfs_sensors'
+let g:netrw_dirhist_2='/home/jdurand/Documents/exoprise/cloudready/app/assets/javascripts/share_point_sensors'
+let g:netrw_dirhist_3='/home/jdurand/Documents/exoprise/cloudready/app/assets/javascripts'
+let g:netrw_dirhist_4='/home/jdurand/Documents/exoprise/cloudready/angular/test'
+let g:netrw_dirhist_5='/home/jdurand/Documents/exoprise/cloudready/app/assets/javascripts/api'
+let g:netrw_dirhist_6='/home/jdurand/Documents/exoprise/cloudready/vendor/assets/javascript'
